@@ -5,3 +5,5 @@ function sum(a, b) {
 }
 
 sum(10, 5);
+
+const companies = ['Microsoft', 'Google', 'Apple'];
