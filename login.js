@@ -1,0 +1,1 @@
+const page = 'Página de login';
