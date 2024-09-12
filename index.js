@@ -11,3 +11,5 @@ function sayName(name) {
 sayName('João');
 
 const cities = ['Fortaleza', 'São Paulo', 'Belo Horizonte'];
+
+const countries = ['Brasil', 'Argentina', 'Uruguai'];
