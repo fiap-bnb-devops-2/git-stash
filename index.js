@@ -9,3 +9,5 @@ function sayName(name) {
 }
 
 sayName('João');
+
+const cities = ['Fortaleza', 'São Paulo', 'Belo Horizonte'];
