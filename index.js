@@ -13,3 +13,7 @@ sayName('João');
 const cities = ['Fortaleza', 'São Paulo', 'Belo Horizonte'];
 
 const countries = ['Brasil', 'Argentina', 'Uruguai'];
+
+const languages = ['JavaScript', 'Python', 'C#', 'PHP'];
+
+console.log(languages);
